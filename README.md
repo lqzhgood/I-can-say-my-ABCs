@@ -1,5 +1,9 @@
 # I-can-say-my-阿八拆 s
 
+### Demo
+
+[https://lqzhgood.github.io/I-can-say-my-ABCs/](https://lqzhgood.github.io/I-can-say-my-ABCs/)
+
 ### 需求
 
 看到论坛有人发帖求小朋友的识字软件 <br/>
@@ -13,7 +17,7 @@
 ### 使用
 
 按照 `dict.js` 中的格式补充`词库`即可。
-点击 `❤` 可以收藏, 点击生词可以打开生词本
+点击 <span style="color:red">`❤`</span> 可以收藏, 点击生词可以打开生词本
 
 ### 命名
 
