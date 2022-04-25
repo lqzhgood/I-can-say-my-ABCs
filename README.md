@@ -17,7 +17,7 @@
 ### 使用
 
 按照 `dict.js` 中的格式补充`词库`即可。
-点击 <span style="color:red">`❤`</span> 可以收藏, 点击生词可以打开生词本
+点击 <code style="color:red">❤</code> 可以收藏, 点击生词可以打开生词本
 
 ### 命名
 
